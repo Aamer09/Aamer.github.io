@@ -1,7 +1,7 @@
 {
   "name": "aamer-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Aamer.github.io/react-gh-pages",
+  "homepage": "https://aamer09.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
